@@ -1,8 +1,8 @@
 <?php
 
-namespace League\Skeleton;
+namespace Janusnic\Laracomm;
 
-class SkeletonClass
+class JanusnicClass
 {
     /**
      * Create a new Skeleton Instance
